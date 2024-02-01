@@ -72,7 +72,7 @@ function consoleHitOn() {
         <UTextarea v-model="state.message" required />
       </UFormGroup>
 
-      <UButton type="submit"> Submit </UButton>
+      <UButton type="submit">Submit</UButton>
     </UForm>
 
     <UAlert
